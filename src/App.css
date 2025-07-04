@@ -956,7 +956,7 @@ padding: .5rem;
   .major {
     /* margin-top: 9rem; */
     padding: 9rem 0.5rem !important;
-    height: auto !important;
+/*     height: auto !important; */
   }
   .major h1 {
     font-size: 1.3rem !important;
