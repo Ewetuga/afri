@@ -1013,12 +1013,12 @@ padding: .5rem;
   }
   .countries-container .countries {
     gap: 0.5rem !important;
-    margin: 1rem 0 !important;
+    margin: 3rem 0 !important;
   }
   
   .countries-container .countries img {
-    width: 1.2rem !important;
-    height: 1.2rem !important;
+    width: 5rem !important;
+    height: 3rem !important;
   }
   .security {
     width: 100vw !important;
